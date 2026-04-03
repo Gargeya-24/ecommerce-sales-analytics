@@ -44,7 +44,7 @@ ecommerce-sales-analytics/
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 | KPI | Value |
 |-----|-------|
@@ -118,7 +118,6 @@ All charts will be saved to the `outputs/` folder.
 ## Author
 
 **Gargeya** — B.Tech CSE, GITAM University  
-[GitHub](https://github.com/YOUR_USERNAME) • [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
 
 ---
 
