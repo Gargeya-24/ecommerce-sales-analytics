@@ -1,10 +1,10 @@
-# 📊 E-Commerce Sales Analytics
+# E-Commerce Sales Analytics
 
 A complete end-to-end data analytics project analyzing **5,000 e-commerce orders** across categories, regions, and time periods — built with Python, Pandas, Matplotlib & Seaborn.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project simulates and analyzes sales data for an Indian e-commerce platform (2023), uncovering actionable business insights through:
 
@@ -16,7 +16,7 @@ This project simulates and analyzes sales data for an Indian e-commerce platform
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ecommerce-sales-analytics/
@@ -59,7 +59,7 @@ ecommerce-sales-analytics/
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 ### 1. Monthly Revenue Trend
 ![Monthly Revenue](outputs/01_monthly_revenue.png)
@@ -115,7 +115,7 @@ All charts will be saved to the `outputs/` folder.
 
 ---
 
-## 👤 Author
+## Author
 
 **Gargeya** — B.Tech CSE, GITAM University  
 [GitHub](https://github.com/YOUR_USERNAME) • [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
